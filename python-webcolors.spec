@@ -2,7 +2,7 @@
  
 Summary:	A python module for working with HTML/CSS color definitions.
 Name:		python-%{modname}
-Version:	1.11.1
+Version:	1.12
 Release:	1
 License:	BSD
 Group:		Development/Python
