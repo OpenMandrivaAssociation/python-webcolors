@@ -9,6 +9,7 @@ Group:		Development/Python
 URL:		https://github.com/ubernostrum/%{modname}
 Source0:	https://github.com/ubernostrum/%{modname}/archive/%{version}/%{modname}-%{version}.tar.gz
 
+BuildRequires:	make
 BuildRequires:	pkgconfig(python3)
 BuildRequires:	python3dist(nose)
 BuildRequires:	python3dist(setuptools)
